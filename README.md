@@ -9,7 +9,7 @@ The code runs on the Arduino firmware. Our specific example uses the Intel Galil
 
 Galileo Headcounter is open-sourced; there are only a few things that need changing.
 
-####Code Updates
+#### Code Updates
 * auth.json
 	* Lines 2 through 5 need to reference a Google Developers Sheets Application.
 * GalileoHeadcounter.ino
